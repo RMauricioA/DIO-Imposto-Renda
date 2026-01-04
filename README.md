@@ -1,5 +1,5 @@
 # DIO-Imposto-Renda
-Tabela para Preenchimento de informações sobre IRPF
+Tabela para preenchimento de informações sobre IRPF
 
 Este repositório tem como objetivo aplicar os conceitos de Excel no desenvolvimento de uma ferramenta prática de tabela para preenchimento de informações relacionadas ao IRPF.
 
